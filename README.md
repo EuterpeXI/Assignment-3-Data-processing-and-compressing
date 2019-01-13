@@ -4,14 +4,7 @@ Language: C
 
 Done in a group of 3.
 
-The objective of this assignment is to implement a data processing and compressing module and use it to:
-      Implement an application that can read a data file in .csv format and create a Database (a set of Data
-Structures) to represent it
-      Implement an application that can interrogate and modify the data stored in the Database
-Implement an application to compress the data in the Database for efficient transmission over a network
-Create a dashboard which allows users to interact with your implementations
-Test your programs extensively, including automated rules for your tests (we want to run the same tests
-that you have!).
+The objective of this assignment is to implement a data processing and compressing module and use it to (1) Implement an application that can read a data file in .csv format and create a Database (a set of Data Structures) to represent it; (2) Implement an application that can interrogate and modify the data stored in the Database; (3) Implement an application to compress the data in the Database for efficient transmission over a network; (4) Create a dashboard which allows users to interact with your implementations
 
-What I took care of was the data processing portion for the importing of data.
+I handled the data processing portion for the importing of data.
 Any code on the compressing portion is not included in this repository. 
