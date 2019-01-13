@@ -13,5 +13,5 @@ Structures) to represent it
 • test your programs extensively, including automated rules for your tests (we want to run the same tests
 that you have!).
 
-What I took care of was the data processing portion. 
+What I took care of was the data processing portion for the importing of data.
 Any code on the compressing portion is not included in this repository. 
