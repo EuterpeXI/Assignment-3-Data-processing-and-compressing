@@ -1,5 +1,5 @@
 # Assignment-3-Data-processing-and-compressing
-Course: CMPT 201 Spring 2017;
+Spring 2017;
 Language: C
 
 Done in a group of 3.
